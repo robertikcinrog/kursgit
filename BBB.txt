@@ -1,2 +1,0 @@
-to jest przykładowa zawartość pliku BBB
-i druga linijka
